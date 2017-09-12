@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CalculoResistencia</string>
+    <string name="negro"> Negro</string>
+    <string name="marron"> Marrón</string>
+    <string name="rojo"> Rojo</string>
+    <string name="naranja"> Naranja</string>
+    <string name="amarillo"> Amarillo</string>
+    <string name="verde"> Verde</string>
+    <string name="azul"> Azul</string>
+    <string name="purpura"> Purpura</string>
+    <string name="gris"> Gris</string>
+    <string name="blanco"> Blanco</string>
+    <string name="dorado"> Dorado</string>
+    <string name="plateado"> Plateado</string>
+    <string name="calcular">Calcular</string>
+    <string-array name="franjas">
+        <item>Sin selección</item>
+        <item>Franja1</item>
+        <item>Franja2</item>
+        <item>Franja3</item>
+        <item>Franja4</item>
+    </string-array>
+</resources>
